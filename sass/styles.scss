@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-size: 18px;
+  font-family: 'Barlow', sans-serif;
+}
+@import 'config/colors';
+@import 'components/buttons';
+
+@import 'components/header';
+@import 'components/hero';
+@import 'components/section';
+@import 'components/testimonials';
+@import 'components/gallery';
+@import 'components/footer';
+// font-family: 'Barlow', sans-serif;
+
+// font-family: 'Barlow', sans-serif;
+// font-family: 'Fraunces', serif;
