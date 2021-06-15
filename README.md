@@ -22,7 +22,7 @@ sass --watch  sass/styles.scss build/css/style.css
 
 ## 🎨 Demo
 
-Puedes ver el demo aquí → [Sunnyside agency landing page](https://cjosue15.github.io/landing-page-huddle/)
+Puedes ver el demo aquí → [Sunnyside agency landing page](https://cjosue15.github.io/sunnyside-agency-landing-page-main/)
 
 <details>
 
